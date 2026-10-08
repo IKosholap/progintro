@@ -3,6 +3,7 @@
 Git repository
 
 conflict change
-Under development + conflict branch
-Under development + conflict from main branch
+Under development - changed in main
+
 Conflict test: original
+
