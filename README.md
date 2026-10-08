@@ -2,4 +2,5 @@
 
 Git repository
 
-conflict change
+Under development - changed in conflict-test
+
