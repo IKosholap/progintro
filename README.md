@@ -2,8 +2,4 @@
 
 Git repository
 
-conflict change
-Under development - changed in main
-
-Conflict test: original
-
+Under development - changes from both branches merged
