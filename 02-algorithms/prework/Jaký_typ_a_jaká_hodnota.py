@@ -1,0 +1,8 @@
+print(type(7 / 2), 7 / 2)
+print(type(7 // 2), 7 // 2)
+print(type(-7 / 2), -7 / 2)
+print(type(0.1+0.2==0.3), 0.1+0.2==0.3)
+print(type("5"*3), "5"*3)
+print(type(int(3.99)), int(3.99))
+print(type(bool("False")), bool("False"))
+print(type("5"+5), "5"+5)
